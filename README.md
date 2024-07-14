@@ -28,7 +28,15 @@
 - 아두이노 기상청 
 
 
+https://github.com/user-attachments/assets/8040a151-f5b4-4392-b8dd-aead948d4ead
+
+
+
 - 결과물
+
+
+
+https://github.com/user-attachments/assets/9ddeebb5-bfba-47e8-b763-a385567f4099
 
 
 
