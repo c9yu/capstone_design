@@ -22,7 +22,7 @@
 
 # 결과물
 - 3D 형태로 구현해 본 완제품의 디자인
-[자동 살균 스마트 엘리베이터](https://github.com/user-attachments/assets/c364323b-13ea-4522-b1d7-bdf32206e916)
+![자동 살균 스마트 엘리베이터](https://github.com/user-attachments/assets/c364323b-13ea-4522-b1d7-bdf32206e916)
 
 
 - 아두이노 기상청 
